@@ -106,12 +106,6 @@ ultimate-ascii-art/
 ├── ascii_converter_cli.py    # CLI version
 ├── ascii_converter_gui.py    # GUI version
 ├── requirements.txt          # Dependencies
-├── assets/                   # Screenshots
-│   ├── cli-screenshot.png
-│   └── gui-screenshot.png
-├── examples/                 # Sample outputs
-│   ├── sample_art.txt
-│   └── sample_art.png
 └── README.md                 # This file
 
 📜 License
