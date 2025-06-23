@@ -1,0 +1,20 @@
+# Core dependencies
+Pillow>=9.0.0
+numpy>=1.20.0
+
+# GUI version dependencies
+PyQt5>=5.15.0
+pyqt5-tools>=5.15.0
+
+# CLI version dependencies
+keyboard>=0.13.5
+termcolor>=1.1.0
+pyperclip>=1.8.2
+opencv-python>=4.5.0
+scikit-image>=0.18.0
+matplotlib>=3.4.0
+colorama>=0.4.0
+
+# Development/testing
+pytest>=6.0.0
+black>=21.0
